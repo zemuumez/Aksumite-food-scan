@@ -1,6 +1,6 @@
-"use client"
+"use client";
 
-export { useAuth } from "@/hooks/auth/use-auth"
+export { useAuth } from "@/hooks/auth/use-auth";
 
 // Re-export types for backward compatibility
-export type { User } from "@/types/api"
+export type { User } from "@/types/api";
